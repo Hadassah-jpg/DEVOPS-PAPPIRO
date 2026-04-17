@@ -1,4 +1,4 @@
-FROM python:3.11(last pushed days ago)
+FROM python:3.11
 
 WORKDIR /app
 
